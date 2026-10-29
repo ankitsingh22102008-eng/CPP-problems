@@ -1,17 +1,9 @@
+# Code-practice
 
-# C++ Practice
+I put here all my solved problems solutions here.
 
-My C++ programming DSA depository.
-
-## Sites
+## Site used
 Codeforces
 
-## Topics
-- Variables and data types
-- Loops and conditionals
-- Functions
-- Object-oriented programming
-
-## Language
+## Languages used
 C++
-
