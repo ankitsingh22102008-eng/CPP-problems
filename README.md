@@ -1,6 +1,6 @@
 # Code-practice
 
-I put here all my solved problems solutions here.
+I put all my solved problems solutions here.
 
 ## Site used
 Codeforces
