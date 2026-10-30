@@ -2,8 +2,8 @@
 
 I put all my solved problems solutions here.
 
-## Site used
+## Platform 
 Codeforces
 
-## Languages used
+## Language used
 C++
